@@ -6,7 +6,7 @@ Dataset : https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction
 Software: Jupyter Notebook, VS Code 
 Library: Pandas, Numpy, Matplotlib, Seaborn, Plotly,Streamlit
 
-Perfromance Metrics :
+Performance Metrics :
 Mean Absolute Error (MAE): 4589.446597282923
 Mean Squared Error (MSE): 49214683.849576384
 Root Mean Squared Error (RMSE): 7015.317801039122
